@@ -1,7 +1,7 @@
  #language: es
   Característica: Cuenta_de_ahorro
   Yo como cliente
-  Quiero Aperturar una cuenta de ahorros
+  Quiero Adquirir una cuenta de ahorros
   Para realizar movimientos bancarios
 
 
